@@ -9,3 +9,4 @@ https://bookdown.org/ndphillips/YaRrr/barplot-barplot.html
 https://rcompanion.org/handbook/I_08.html
 
 https://www.scribbr.com/statistics/anova-in-r/
+http://environmentalcomputing.net/plotting-with-ggplot-bar-plots-with-error-bars/
