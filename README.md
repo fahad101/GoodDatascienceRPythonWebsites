@@ -1,4 +1,6 @@
 # GoodDatascienceRPythonWebsites
+https://developers.google.com/machine-learning/crash-course/framing/video-lecture
+
 https://developers.google.com/machine-learning/clustering/clustering-algorithms
 
 https://dzone.com/articles/10-interesting-use-cases-for-the-k-means-algorithm
