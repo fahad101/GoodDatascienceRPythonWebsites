@@ -21,3 +21,4 @@ http://environmentalcomputing.net/plotting-with-ggplot-bar-plots-with-error-bars
 https://datatofish.com/dropna/
 
 https://pythonprogramming.net/working-with-non-numerical-data-machine-learning-tutorial/
+https://www.analyticsvidhya.com/blog/2015/11/easy-methods-deal-categorical-variables-predictive-modeling/
