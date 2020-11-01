@@ -1,4 +1,6 @@
 # GoodDatascienceRPythonWebsites
+https://jakevdp.github.io/PythonDataScienceHandbook/03.04-missing-values.html
+
 https://developers.google.com/machine-learning/crash-course/framing/video-lecture
 
 https://developers.google.com/machine-learning/clustering/clustering-algorithms
