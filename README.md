@@ -26,3 +26,5 @@ https://pythonprogramming.net/working-with-non-numerical-data-machine-learning-t
 https://www.analyticsvidhya.com/blog/2015/11/easy-methods-deal-categorical-variables-predictive-modeling/
 
 https://towardsdatascience.com/categorical-encoding-using-label-encoding-and-one-hot-encoder-911ef77fb5bd
+
+https://towardsdatascience.com/the-dummys-guide-to-creating-dummy-variables-f21faddb1d40
