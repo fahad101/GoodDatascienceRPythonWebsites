@@ -19,3 +19,5 @@ https://rcompanion.org/handbook/I_08.html
 https://www.scribbr.com/statistics/anova-in-r/
 http://environmentalcomputing.net/plotting-with-ggplot-bar-plots-with-error-bars/
 https://datatofish.com/dropna/
+
+https://pythonprogramming.net/working-with-non-numerical-data-machine-learning-tutorial/
