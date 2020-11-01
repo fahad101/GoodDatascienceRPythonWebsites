@@ -1,4 +1,6 @@
 # GoodDatascienceRPythonWebsites
+https://datacarpentry.org/python-ecology-lesson/03-index-slice-subset/index.html
+
 https://jakevdp.github.io/PythonDataScienceHandbook/03.04-missing-values.html
 
 https://developers.google.com/machine-learning/crash-course/framing/video-lecture
