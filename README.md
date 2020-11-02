@@ -1,4 +1,5 @@
 # GoodDatascienceRPythonWebsites
+https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html
 https://allthesnippets.com/index.html
 https://allthesnippets.com/search/
 
