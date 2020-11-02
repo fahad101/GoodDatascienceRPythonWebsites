@@ -1,4 +1,6 @@
 # GoodDatascienceRPythonWebsites
+https://suzan.rbind.io/2018/01/dplyr-tutorial-1/
+
 https://mathstat.slu.edu/~speegle/_book/RData.html
 https://www.jeremyjordan.me/grouping-data-points-with-k-means-clustering/
 
