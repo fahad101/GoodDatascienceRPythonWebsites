@@ -1,4 +1,8 @@
 # GoodDatascienceRPythonWebsites
+https://datatofish.com/create-pandas-dataframe/
+
+https://towardsdatascience.com/the-dummys-guide-to-creating-dummy-variables-f21faddb1d40
+
 https://suzan.rbind.io/2018/01/dplyr-tutorial-1/
 
 https://mathstat.slu.edu/~speegle/_book/RData.html
