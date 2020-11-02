@@ -1,4 +1,5 @@
 # GoodDatascienceRPythonWebsites
+https://allthesnippets.com/index.html
 https://allthesnippets.com/search/
 
 https://cmdlinetips.com/2018/04/how-to-drop-one-or-more-columns-in-pandas-dataframe/
