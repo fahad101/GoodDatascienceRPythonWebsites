@@ -1,4 +1,6 @@
 # GoodDatascienceRPythonWebsites
+https://www.analyticsvidhya.com/blog/2017/02/test-data-scientist-clustering/
+
 https://towardsdatascience.com/unsupervised-learning-and-data-clustering-eeecb78b422a
 https://www.r-bloggers.com/2015/12/k-means-clustering-in-r/
 https://www.guru99.com/r-k-means-clustering.html
