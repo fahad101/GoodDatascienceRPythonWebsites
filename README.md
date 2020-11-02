@@ -1,4 +1,5 @@
 # GoodDatascienceRPythonWebsites
+https://mathstat.slu.edu/~speegle/_book/RData.html
 https://www.jeremyjordan.me/grouping-data-points-with-k-means-clustering/
 
 https://www.datanovia.com/en/lessons/determining-the-optimal-number-of-clusters-3-must-know-methods/
