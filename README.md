@@ -28,3 +28,5 @@ https://www.analyticsvidhya.com/blog/2015/11/easy-methods-deal-categorical-varia
 https://towardsdatascience.com/categorical-encoding-using-label-encoding-and-one-hot-encoder-911ef77fb5bd
 
 https://towardsdatascience.com/the-dummys-guide-to-creating-dummy-variables-f21faddb1d40
+
+https://www.geeksforgeeks.org/python-pandas-series-str-strip-lstrip-and-rstrip/
