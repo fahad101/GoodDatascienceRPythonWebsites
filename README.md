@@ -1,5 +1,5 @@
 # GoodDatascienceRPythonWebsites
-
+https://www.r-bloggers.com/2015/12/k-means-clustering-in-r/
 https://www.guru99.com/r-k-means-clustering.html
 
 https://ourcodingclub.github.io/tutorials/pandas-python-intro/
