@@ -1,4 +1,6 @@
 # GoodDatascienceRPythonWebsites
+https://allthesnippets.com/search/
+
 https://cmdlinetips.com/2018/04/how-to-drop-one-or-more-columns-in-pandas-dataframe/
 https://datacarpentry.org/python-ecology-lesson/03-index-slice-subset/index.html
 
