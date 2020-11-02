@@ -1,4 +1,5 @@
 # GoodDatascienceRPythonWebsites
+https://www.datanovia.com/en/lessons/determining-the-optimal-number-of-clusters-3-must-know-methods/
 https://www.analyticsvidhya.com/blog/2017/02/test-data-scientist-clustering/
 
 https://towardsdatascience.com/unsupervised-learning-and-data-clustering-eeecb78b422a
