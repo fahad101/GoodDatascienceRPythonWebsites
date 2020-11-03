@@ -1,4 +1,6 @@
 # GoodDatascienceRPythonWebsites
+https://www2.mpia-hd.mpg.de/homes/dgoulier/MLClasses/Course%20-%20Introduction%20to%20Machine%20Learning%20for%20Scientists%20with%20R.html#chapter_5:_clustering
+
 https://datatofish.com/create-pandas-dataframe/
 
 https://towardsdatascience.com/the-dummys-guide-to-creating-dummy-variables-f21faddb1d40
