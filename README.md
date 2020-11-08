@@ -1,4 +1,5 @@
 # GoodDatascienceRPythonWebsites
+https://www.geeksforgeeks.org/pandas-tutorial/
 https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q
 https://www.geeksforgeeks.org/python-pandas-dataframe-astype/
 
