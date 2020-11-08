@@ -1,4 +1,5 @@
 # GoodDatascienceRPythonWebsites
+https://opensource.com/article/17/9/messy-sensor-data
 https://towardsdatascience.com/data-cleaning-with-python-and-pandas-detecting-missing-values-3e9c6ebcf78b
 https://www.geeksforgeeks.org/pandas-tutorial/
 https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q
