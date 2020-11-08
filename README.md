@@ -1,4 +1,7 @@
 # GoodDatascienceRPythonWebsites
+https://www.machinelearningeducation.com/
+https://evidencen.com/
+
 https://uc-r.github.io/kmeans_clustering
 
 http://homes.sice.indiana.edu/yye/lab/teaching/topics/R/cluster.php
