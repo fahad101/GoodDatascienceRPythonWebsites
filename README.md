@@ -1,4 +1,5 @@
 # GoodDatascienceRPythonWebsites
+https://www.geeksforgeeks.org/python-pandas-dataframe-astype/
 https://practicum.yandex.com/
 https://www.machinelearningeducation.com/
 https://evidencen.com/
