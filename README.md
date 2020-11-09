@@ -1,4 +1,8 @@
 # GoodDatascienceRPythonWebsites
+https://uc-r.github.io/kmeans_clustering
+
+https://openclassrooms.com/en/search?page=1&query=machine+learning
+
 https://opensource.com/article/17/9/messy-sensor-data
 https://towardsdatascience.com/data-cleaning-with-python-and-pandas-detecting-missing-values-3e9c6ebcf78b
 https://www.geeksforgeeks.org/pandas-tutorial/
