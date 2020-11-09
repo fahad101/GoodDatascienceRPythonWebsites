@@ -1,4 +1,5 @@
 # GoodDatascienceRPythonWebsites
+http://www.sthda.com/english/articles/29-cluster-validation-essentials/96-determining-the-optimal-number-of-clusters-3-must-known-methods/
 https://uc-r.github.io/kmeans_clustering
 
 https://openclassrooms.com/en/search?page=1&query=machine+learning
