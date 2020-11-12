@@ -1,5 +1,5 @@
 # GoodDatascienceRPythonWebsites
-
+https://www.geeksforgeeks.org/k-means-clustering-introduction/
 https://docs.oracle.com/cd/B28359_01/datamine.111/b28129/algo_apriori.htm#BGBEFCBG
 
 https://datacarpentry.org/python-ecology-lesson/05-merging-data/index.html
