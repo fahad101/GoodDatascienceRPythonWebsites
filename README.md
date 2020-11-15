@@ -15,6 +15,7 @@ https://www.youtube.com/channel/UCNYv4HA3WjV3gZGLfBehRWQ
 https://www.youtube.com/watch?v=XOxABiMhG2U
 
 # GoodDatascienceRPythonWebsites
+https://www.dataoptimal.com/data-science-projects-2018/
 https://towardsdatascience.com/understanding-random-forest-58381e0602d2
 https://www.geeksforgeeks.org/k-means-clustering-introduction/
 https://docs.oracle.com/cd/B28359_01/datamine.111/b28129/algo_apriori.htm#BGBEFCBG
