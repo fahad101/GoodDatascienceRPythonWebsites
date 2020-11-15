@@ -2,6 +2,8 @@
 
 #Youtube tutorials on Python Numpy,Pandas and Machine learning
 
+https://www.youtube.com/watch?list=PLH5lMW7dI2qeI8-85o0eCPDAGANUpUNHm&v=Rdwik2Eh8f0&feature=emb_logo
+
 https://www.youtube.com/watch?v=V77c5eaOO0c
 
 https://www.youtube.com/watch?v=Q2nFweWoL2M
