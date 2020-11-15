@@ -1,4 +1,5 @@
 #Youtube tutorials on R
+https://www.amazon.com/s?i=digital-text&rh=p_27%3ARaja+B.+Koushik&s=relevancerank&text=Raja+B.+Koushik&ref=dbs_a_def_rwt_hsch_vu00_tkin_p1_i1
 
 #Youtube tutorials on Python Numpy,Pandas and Machine learning
 https://www.youtube.com/watch?v=5zec-qxfMvg
