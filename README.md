@@ -1,8 +1,12 @@
 #Youtube tutorials on R
 
 #Youtube tutorials on Python Numpy,Pandas and Machine learning
+
 https://www.youtube.com/watch?v=Q2nFweWoL2M
+
 https://www.youtube.com/channel/UCNYv4HA3WjV3gZGLfBehRWQ
+
+https://www.youtube.com/watch?v=XOxABiMhG2U
 
 # GoodDatascienceRPythonWebsites
 https://www.geeksforgeeks.org/k-means-clustering-introduction/
