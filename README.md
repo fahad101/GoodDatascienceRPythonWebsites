@@ -1,3 +1,9 @@
+#Youtube tutorials on R
+
+#Youtube tutorials on Python Numpy,Pandas and Machine learning
+https://www.youtube.com/watch?v=Q2nFweWoL2M
+https://www.youtube.com/channel/UCNYv4HA3WjV3gZGLfBehRWQ
+
 # GoodDatascienceRPythonWebsites
 https://www.geeksforgeeks.org/k-means-clustering-introduction/
 https://docs.oracle.com/cd/B28359_01/datamine.111/b28129/algo_apriori.htm#BGBEFCBG
