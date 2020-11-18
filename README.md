@@ -17,6 +17,8 @@ https://www.youtube.com/channel/UCNYv4HA3WjV3gZGLfBehRWQ
 https://www.youtube.com/watch?v=XOxABiMhG2U
 
 # GoodDatascienceRPythonWebsites
+https://python-data-science.readthedocs.io/en/latest/unsupervised.html
+
 https://srijithr.gitlab.io/post/ml/
 https://www.dataoptimal.com/data-science-projects-2018/
 https://towardsdatascience.com/understanding-random-forest-58381e0602d2
