@@ -17,6 +17,7 @@ https://www.youtube.com/channel/UCNYv4HA3WjV3gZGLfBehRWQ
 https://www.youtube.com/watch?v=XOxABiMhG2U
 
 # GoodDatascienceRPythonWebsites
+https://www.geeksforgeeks.org/how-to-select-multiple-columns-in-a-pandas-dataframe/
 https://python-data-science.readthedocs.io/en/latest/unsupervised.html
 
 https://srijithr.gitlab.io/post/ml/
